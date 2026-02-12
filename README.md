@@ -3,10 +3,10 @@
 ## 🎓 About Me
 I am a **Computer Graphics Engineer** currently enrolled in a **Informatics Engineering Master's studen**at **IPVC (Instituto Politécnico de Viana do Castelo)**, currently finishing my thesis/final year. My focus is on building scalable, high-performance web applications.
 
-* 💼 Currently working with **React, Node.js, and Express**.
-* 🚀 Finishing my Master's in **Informatics Engineering**.
-* 🧠 Interested in Web Architecture, Cloud Computing, and Clean Code.
-* 📫 Reach me at: **[sdsantosdiogo@gmail.com]**
+* Currently working with **React, Node.js, and Express**.
+* Finishing my Master's in **Informatics Engineering**.
+* Interested in Web Architecture, Cloud Computing, and Clean Code.
+* Reach me at: **[sdsantosdiogo@gmail.com]**
 
 ---
 

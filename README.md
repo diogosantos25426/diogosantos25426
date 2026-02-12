@@ -59,7 +59,6 @@ Mestrando em Engenharia Informática no IPVC. Focado na intersecção entre perf
 
 ### 📊 Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogosantos25426&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantos25426&layout=compact&theme=tokyonight" />
 </p>
 

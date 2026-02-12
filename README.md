@@ -23,10 +23,14 @@ I am a **Computer Graphics Engineer** currently enrolled in a **Informatics Engi
 
 ---
 
-## 📊 My Performance Metrics
+## 📈 GitHub Activities
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogosantos25426&show_icons=true&theme=vibrant&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantos25426&layout=compact&langs_count=7&theme=vibrant" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogosantos25426&theme=vibrant&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Stack-React_%7C_Node-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Specialization-Graphics_Engineering-orange?style=flat-square">
 </p>
 
 ---

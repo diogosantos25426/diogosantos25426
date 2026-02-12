@@ -23,10 +23,10 @@ I am a **Computer Graphics Engineer** currently enrolled in a **Informatics Engi
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My Performance Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[diogosantos25426]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[diogosantos25426]&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogosantos25426&show_icons=true&theme=vibrant&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantos25426&layout=compact&langs_count=7&theme=vibrant" />
 </p>
 
 ---

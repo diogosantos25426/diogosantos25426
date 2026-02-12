@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Diogo Santos]! 👋
 
 ## 🎓 About Me
 I am a **Computer Graphics Engineer** currently enrolled in a **Informatics Engineering Master's studen**at **IPVC (Instituto Politécnico de Viana do Castelo)**, currently finishing my thesis/final year. My focus is on building scalable, high-performance web applications.
@@ -25,8 +25,8 @@ I am a **Computer Graphics Engineer** currently enrolled in a **Informatics Engi
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[diogosantos25426]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[diogosantos25426]&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---

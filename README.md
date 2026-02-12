@@ -1,4 +1,4 @@
-# Hi there, I'm [Diogo Santos]! 👋
+# Hi there, I'm Diogo Santos! 👋
 
 ## 🎓 About Me
 I am a **Computer Graphics Engineer** currently enrolled in a **Informatics Engineering Master's studen**at **IPVC (Instituto Politécnico de Viana do Castelo)**, currently finishing my thesis/final year. My focus is on building scalable, high-performance web applications.

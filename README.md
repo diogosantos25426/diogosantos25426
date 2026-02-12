@@ -6,7 +6,7 @@ I am a **Computer Graphics Engineer** currently enrolled in a **Informatics Engi
 * Currently working with **React, Node.js, and Express**.
 * Finishing my Master's in **Informatics Engineering**.
 * Interested in Web Architecture, Cloud Computing, and Clean Code.
-* Reach me at: **[sdsantosdiogo@gmail.com]**
+* Reach me at: **sdsantosdiogo@gmail.com**
 
 ---
 ## 🛠 Tech Stack

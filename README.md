@@ -13,8 +13,8 @@
 
 ---
 
-### 📖 Sobre Mim
-Mestrando em Engenharia Informática no IPVC. Focado na intersecção entre performance **backend escalável** e **computação visual** de alta performance. Transformo teoria académica em soluções reais.
+### 📖 About Me
+Computer Graphics Engineer and Informatics Engineering Master's student at IPVC. I specialize in the intersection of **scalable backend performance** and high-performance **visual computing**. I focus on bridging the gap between academic theory and high-efficiency production solutions.
 
 ---
 
@@ -57,8 +57,7 @@ Mestrando em Engenharia Informática no IPVC. Focado na intersecção entre perf
 
 ---
 
-### 📊 Estatísticas
-
+### 📊 Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogosantos25426&theme=tokyonight&hide_border=true" />

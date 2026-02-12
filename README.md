@@ -68,13 +68,6 @@ Mestrando em Engenharia Informática no IPVC. Focado na intersecção entre perf
 
 ---
 
-### 🛠️ Projetos em Destaque
-- **Keybusiness**: Soluções audiovisuais e gestão técnica.
-- **triCARGO**: Logística e gestão de carga internacional.
-- **3D Engine**: Motor gráfico experimental em C++/OpenGL.
-
----
-
 <p align="center">
   <i>"Turning coffee into code and academic theory into high-performance solutions."</i>
 </p>
